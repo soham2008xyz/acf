@@ -23,7 +23,7 @@
     "tests",
     "readme",
     "readme.txt",
-    "readme.md",
+    "README.md",
     "screenshot*.png",
     "config.codekit"
   ]
