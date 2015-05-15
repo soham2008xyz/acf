@@ -1,0 +1,29 @@
+{
+  "name": "advanced-custom-fields",
+  "version": "4.3.5",
+  "authors": [
+    "eliotcondon"
+  ],
+  "description": "Advanced Custom Fields for WordPress",
+  "main": "acf.php",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "php",
+    "wordpress"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/elliotcondon/acf",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "readme",
+    "readme.txt",
+    "readme.md",
+    "screenshot*.png"
+  ]
+}
